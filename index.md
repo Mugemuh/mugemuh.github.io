@@ -19,3 +19,5 @@ My GitHub page is https://github.com/Mugemuh.
 * Lab 10
 
     Lab 10 part-2 was a project in which we used modular programming. We used several files, each with different purposes to complete a program. Each file would use other files in the header, including them. The program itself would tell you the population of a county in California that you would type. If you didnt type in a proper county, an error message would appear and the program would give you a list of all counties in California.
+
+i love computer science!
